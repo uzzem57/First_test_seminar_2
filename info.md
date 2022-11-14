@@ -32,5 +32,9 @@
 
 3. ### Цитаты
 
+> Цитаты оформляются как в емейлах, с помощью символа `>`.
+
+> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet
+
 4. ### Ссылки
 
